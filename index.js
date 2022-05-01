@@ -9,7 +9,7 @@ const Intern = require ('./lib/Intern');
 
 const employeeArray = []; 
 
-const generateHTML = require('./src/generateHTML');
+const generateHTML = require('./src/createHTML');
 
 //functions to input team profile data 
 
