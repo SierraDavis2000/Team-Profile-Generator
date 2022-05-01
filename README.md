@@ -13,9 +13,11 @@ THEN an HTML file is generated that displays a nicely formatted team roster base
 <h1> Screenshots </h1>
 
 <h2> Example of Application with User Prompts and Input </h2>
+
 ![image](https://user-images.githubusercontent.com/99284604/166156624-790139ba-f929-48ae-a0dd-90e47d61aac0.png)
 
 <h2> Generated HTML page based on above user input: </h2>
+
 ![image](https://user-images.githubusercontent.com/99284604/166156683-29479313-640d-4c3b-9eac-2b2a50f00116.png)
 
 
