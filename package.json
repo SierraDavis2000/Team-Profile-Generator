@@ -4,25 +4,25 @@
     "description": "app to create team profile generator ",
     "main": "index.js",
     "directories": {
-      "lib": "lib"
+        "lib": "lib"
     },
     "scripts": {
-      "test": "jest"
+        "test": "jest"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/SierraDavis2000/Team-Profile-Generator.git" 
+        "type": "git",
+        "url": "git+https://github.com/SierraDavis2000/Team-Profile-Generator.git"
     },
     "author": "Sierra Davis",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/SierraDavis2000/Team-Profile-Generator/issues"
+        "url": "https://github.com/SierraDavis2000/Team-Profile-Generator/issues"
     },
     "homepage": "https://github.com/SierraDavis2000/Team-Profile-Generator#readme",
     "devDependencies": {
-      "jest": "^26.0.1"
+        "jest": "^26.6.3"
     },
     "dependencies": {
-      "inquirer": "^7.1.0"
+        "inquirer": "^7.3.3"
     }
-  }
+}
